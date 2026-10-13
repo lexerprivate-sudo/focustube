@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
-  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.4/FocusTube.apk",
-  "notes": "Fullscreen exit button, real landscape rotation."
+  "versionCode": 6,
+  "versionName": "1.5",
+  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.5/FocusTube.apk",
+  "notes": "Removed orientation lock. Plain fullscreen + exit button."
 }
