@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
-  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.6/FocusTube.apk",
-  "notes": "One-tap updates: permission check plus auto installer."
+  "versionCode": 8,
+  "versionName": "1.7",
+  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.7/FocusTube.apk",
+  "notes": "No more duplicate downloads. Cleans old files itself."
 }
