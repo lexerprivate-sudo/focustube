@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "1.12",
-  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.12/FocusTube.apk",
-  "notes": "Installer opens itself. Smoother minimize drag."
+  "versionCode": 14,
+  "versionName": "1.13",
+  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.13/FocusTube.apk",
+  "notes": "Background play with notification controls."
 }
