@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "1.8",
-  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.8/FocusTube.apk",
-  "notes": "Shorts start with sound. Mute button plus tap-for-sound."
+  "versionCode": 10,
+  "versionName": "1.9",
+  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.9/FocusTube.apk",
+  "notes": "One-tap updates: installer opens itself."
 }
