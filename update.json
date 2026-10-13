@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "1.11",
-  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.11/FocusTube.apk",
-  "notes": "Bulletproof updater with progress and retry."
+  "versionCode": 13,
+  "versionName": "1.12",
+  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.12/FocusTube.apk",
+  "notes": "Installer opens itself. Smoother minimize drag."
 }
