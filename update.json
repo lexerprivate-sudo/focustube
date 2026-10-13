@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
-  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.5/FocusTube.apk",
-  "notes": "Removed orientation lock. Plain fullscreen + exit button."
+  "versionCode": 7,
+  "versionName": "1.6",
+  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.6/FocusTube.apk",
+  "notes": "One-tap updates: permission check plus auto installer."
 }
