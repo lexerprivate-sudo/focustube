@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.7",
-  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.7/FocusTube.apk",
-  "notes": "No more duplicate downloads. Cleans old files itself."
+  "versionCode": 9,
+  "versionName": "1.8",
+  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.8/FocusTube.apk",
+  "notes": "Shorts start with sound. Mute button plus tap-for-sound."
 }
