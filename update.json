@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "1.14",
-  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.14/FocusTube.apk",
-  "notes": "Background audio that survives. Bigger drag handle."
+  "versionCode": 16,
+  "versionName": "1.15",
+  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.15/FocusTube.apk",
+  "notes": "Background play that actually starts."
 }
