@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
-  "versionName": "1.15",
-  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.15/FocusTube.apk",
-  "notes": "Background play that actually starts."
+  "versionCode": 17,
+  "versionName": "1.16",
+  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.16/FocusTube.apk",
+  "notes": "Speed sprint: lighter, calmer, faster."
 }
