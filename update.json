@@ -1,6 +1,6 @@
 {
-  "versionCode": 26,
-  "versionName": "1.25",
-  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.25/FocusTube.apk",
-  "notes": "Critical fix: all buttons work. Background chains tracks."
+  "versionCode": 27,
+  "versionName": "1.26",
+  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.26/FocusTube.apk",
+  "notes": "New mobile look with bottom nav. PC goes wide."
 }
