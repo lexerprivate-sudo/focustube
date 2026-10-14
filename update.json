@@ -1,6 +1,6 @@
 {
-  "versionCode": 23,
-  "versionName": "1.22",
-  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.22/FocusTube.apk",
-  "notes": "Buttons that respond first tap."
+  "versionCode": 24,
+  "versionName": "1.23",
+  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.23/FocusTube.apk",
+  "notes": "Playlist library with straight-through play."
 }
