@@ -1,6 +1,6 @@
 {
-  "versionCode": 22,
-  "versionName": "1.21",
-  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.21/FocusTube.apk",
-  "notes": "Search that refuses to come back empty."
+  "versionCode": 23,
+  "versionName": "1.22",
+  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.22/FocusTube.apk",
+  "notes": "Buttons that respond first tap."
 }
