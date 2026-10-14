@@ -1,6 +1,6 @@
 {
-  "versionCode": 25,
-  "versionName": "1.24",
-  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.24/FocusTube.apk",
-  "notes": "Background keeps playing to the next one. Self-heals stalls."
+  "versionCode": 26,
+  "versionName": "1.25",
+  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.25/FocusTube.apk",
+  "notes": "Critical fix: all buttons work. Background chains tracks."
 }
