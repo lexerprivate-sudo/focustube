@@ -1,6 +1,6 @@
 {
-  "versionCode": 21,
-  "versionName": "1.20",
-  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.20/FocusTube.apk",
-  "notes": "Speed sprint 2: lighter everything."
+  "versionCode": 22,
+  "versionName": "1.21",
+  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.21/FocusTube.apk",
+  "notes": "Search that refuses to come back empty."
 }
