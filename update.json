@@ -1,6 +1,6 @@
 {
-  "versionCode": 18,
-  "versionName": "1.17",
-  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.17/FocusTube.apk",
-  "notes": "Background that reports itself."
+  "versionCode": 19,
+  "versionName": "1.18",
+  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.18/FocusTube.apk",
+  "notes": "Background audio for YouTube embeds too."
 }
