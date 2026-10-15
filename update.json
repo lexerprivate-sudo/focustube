@@ -1,6 +1,6 @@
 {
-  "versionCode": 42,
-  "versionName": "1.41",
-  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.41/FocusTube.apk",
-  "notes": "Cleaner, formal interface."
+  "versionCode": 43,
+  "versionName": "1.42",
+  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.42/FocusTube.apk",
+  "notes": "Download button fixed, offline list cleaned."
 }
