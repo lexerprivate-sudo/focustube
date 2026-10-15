@@ -1,6 +1,6 @@
 {
-  "versionCode": 39,
-  "versionName": "1.38",
-  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.38/FocusTube.apk",
-  "notes": "Mobile offline downloads, frozen player, pause stays paused."
+  "versionCode": 40,
+  "versionName": "1.39",
+  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.39/FocusTube.apk",
+  "notes": "Offline downloads fixed, pause stays paused, frozen player."
 }
