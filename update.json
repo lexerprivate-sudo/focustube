@@ -1,6 +1,6 @@
 {
-  "versionCode": 34,
-  "versionName": "1.33",
-  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.33/FocusTube.apk",
-  "notes": "Length preference: feed plus auto-advance in Any, Quick, Medium or Long."
+  "versionCode": 35,
+  "versionName": "1.34",
+  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.34/FocusTube.apk",
+  "notes": "Background that refuses to die: watchdog revives freezes and focus-loss, never overrides your pause."
 }
