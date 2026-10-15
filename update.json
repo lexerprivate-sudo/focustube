@@ -1,6 +1,6 @@
 {
-  "versionCode": 31,
+  "versionCode": 32,
   "versionName": "1.30",
   "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.30/FocusTube.apk",
-  "notes": "Single loader: native spinner masked, embed fallback covered."
+  "notes": "Background and app stay on the same track."
 }
