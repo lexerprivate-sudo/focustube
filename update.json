@@ -1,6 +1,6 @@
 {
   "versionCode": 33,
-  "versionName": "1.31",
-  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.31/FocusTube.apk",
-  "notes": "Buttery mobile scroll: blur-free chrome, lazy off-screen cards."
+  "versionName": "1.32",
+  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.32/FocusTube.apk",
+  "notes": "Single white loader. No more background-ready popup."
 }
