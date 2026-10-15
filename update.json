@@ -1,6 +1,6 @@
 {
-  "versionCode": 37,
-  "versionName": "1.36",
-  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.36/FocusTube.apk",
-  "notes": "Back button stays in-app from Shorts. Length button removed."
+  "versionCode": 38,
+  "versionName": "1.37",
+  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.37/FocusTube.apk",
+  "notes": "Offline downloads: save videos in Library, watch with no internet."
 }
