@@ -1,6 +1,6 @@
 {
-  "versionCode": 33,
-  "versionName": "1.32",
-  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.32/FocusTube.apk",
-  "notes": "Single white loader. No more background-ready popup."
+  "versionCode": 34,
+  "versionName": "1.33",
+  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.33/FocusTube.apk",
+  "notes": "Length preference: feed plus auto-advance in Any, Quick, Medium or Long."
 }
