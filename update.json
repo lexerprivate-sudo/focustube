@@ -1,6 +1,6 @@
 {
-  "versionCode": 37,
-  "versionName": "1.36",
-  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.36/FocusTube.apk",
-  "notes": "Sticky player plus endless Up Next."
+  "versionCode": 36,
+  "versionName": "1.35",
+  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.35/FocusTube.apk",
+  "notes": "Glitch hunt: PiP plus YouTube link on mobile player. Verified clean."
 }
