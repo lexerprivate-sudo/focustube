@@ -1,6 +1,6 @@
 {
-  "versionCode": 51,
-  "versionName": "1.50",
-  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.50/FocusTube.apk",
-  "notes": "BG proves playback before exiting."
+  "versionCode": 52,
+  "versionName": "1.51",
+  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.51/FocusTube.apk",
+  "notes": "BG reports full diagnostics on failure."
 }
