@@ -1,6 +1,6 @@
 {
-  "versionCode": 53,
-  "versionName": "1.52",
-  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.52/FocusTube.apk",
-  "notes": "Readable BG error reports."
+  "versionCode": 54,
+  "versionName": "1.53",
+  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.53/FocusTube.apk",
+  "notes": "BG via system bridge."
 }
