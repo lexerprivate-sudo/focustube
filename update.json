@@ -1,6 +1,6 @@
 {
-  "versionCode": 49,
-  "versionName": "1.48",
-  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.48/FocusTube.apk",
-  "notes": "Background audio that survives exit."
+  "versionCode": 50,
+  "versionName": "1.49",
+  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.49/FocusTube.apk",
+  "notes": "Background audio on a native engine."
 }
