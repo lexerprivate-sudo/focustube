@@ -1,6 +1,6 @@
 {
-  "versionCode": 46,
-  "versionName": "1.45",
-  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.45/FocusTube.apk",
-  "notes": "PC playback untouched across tabs."
+  "versionCode": 47,
+  "versionName": "1.46",
+  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.46/FocusTube.apk",
+  "notes": "Seamless playback across tabs."
 }
