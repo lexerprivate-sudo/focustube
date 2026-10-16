@@ -1,6 +1,6 @@
 {
-  "versionCode": 47,
-  "versionName": "1.46",
-  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.46/FocusTube.apk",
-  "notes": "Seamless playback across tabs."
+  "versionCode": 48,
+  "versionName": "1.47",
+  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.47/FocusTube.apk",
+  "notes": "BG exits to home, audio keeps playing."
 }
