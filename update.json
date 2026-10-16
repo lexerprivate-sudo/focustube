@@ -1,6 +1,6 @@
 {
-  "versionCode": 44,
-  "versionName": "1.43",
-  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.43/FocusTube.apk",
-  "notes": "Background play fixed."
+  "versionCode": 45,
+  "versionName": "1.44",
+  "apkUrl": "https://github.com/lexerprivate-sudo/focustube/releases/download/v1.44/FocusTube.apk",
+  "notes": "Background switch."
 }
